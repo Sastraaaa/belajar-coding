@@ -43,3 +43,8 @@ let number = 20;
 console.log(number + 10); //30
 number = 10;
 console.log(number + 10); //20
+
+// contoh variabel konstan(tidak bisa di ubah isinya)
+const hewan = "kucing";
+console.log(hewan);
+hewan = "ayam";
